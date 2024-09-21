@@ -22,5 +22,3 @@ Participants can enter the lottery by sending Ether to the contract address. Onc
 This project is licensed under the MIT License. Contributions are welcome!
 
 ---
-
-Feel free to open an issue or submit a pull request if you have any questions or suggestions.
